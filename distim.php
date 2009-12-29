@@ -1,7 +1,6 @@
 <?php
 
 require_once( "settings.php" );
-require_once( "common.php" );
 require_once( "upload_service.php" );
 require_once( "tinypic.php" );
 require_once( "imageshack.php" );
